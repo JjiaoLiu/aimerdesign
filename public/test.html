@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+<canvas id="5" width="500" height="500" style="border:2px solid blue"></canvas>
+<script>
+	function MouseIN(x, y, graph) {
+		var isIn = false;
+		// 获取context
+		var context = graph.getContext();
+		if (context.isPointInPath(x, y)) {
+			isIn = true;
+		}
+		context.restore();
+		return isIn;
+	}
+
+	var c = document.getElementById("5");
+	var p = c.getContext("2d");
+	var img1 = new Image();
+	var img2 = new Image();
+	img1.src = "img/1.png";
+	img2.src = "img/2.png";
+	p.drawImage(img1, 0, 0, 100, 100);
+	p.drawImage(img2, 100, 100, 100, 100);
+</script>
+</body>
+</html>

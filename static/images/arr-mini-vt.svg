@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="6px" viewBox="0 0 10 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="定制首页" transform="translate(-340.000000, -7102.000000)" fill="#FFFFFF" stroke="#CCCCCC">
+            <g id="Group-17" transform="translate(0.000000, 6881.000000)">
+                <g id="Group-16" transform="translate(15.000000, 132.000000)">
+                    <path d="M332.09058,87.8732386 C332.020759,87.7998295 331.907902,87.7998295 331.83808,87.8732386 L327.909509,92.0036734 C327.839687,92.0770825 327.839687,92.1957386 327.909509,92.2691477 L331.83808,96.3995825 C331.872902,96.4361932 331.918616,96.4545924 331.96433,96.4545924 C332.010045,96.4545924 332.055759,96.4361932 332.09058,96.3995825 C332.160402,96.3261734 332.160402,96.2075173 332.09058,96.1341082 L328.288259,92.1364106 L332.09058,88.1387129 C332.160402,88.0653039 332.160402,87.9466477 332.09058,87.8732386" id="Fill-1" transform="translate(330.000045, 92.136387) scale(1, -1) rotate(-90.000000) translate(-330.000045, -92.136387) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

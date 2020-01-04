@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>Envelope</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-26.000000, -4179.000000)" fill="#BEA47A">
+            <path d="M31.85,4185.21917 L33.2644156,4186.63492 L33.7274528,4187.10178 C34.4302612,4187.8104 35.5703597,4187.80977 36.2725472,4187.10178 L36.7407224,4186.6401 L38.15,4185.21917 L43.5904846,4190.7 L26.4095154,4190.7 L31.85,4185.21917 Z M26.3181981,4179 L43.6818019,4179 L37.025,4185.71182 L35.9544701,4186.78728 C35.4274393,4187.31867 34.5726692,4187.31878 34.0455299,4186.78728 L32.975,4185.7079 L26.3181981,4179 Z M44,4179.32083 L44,4190.47587 L38.4681981,4184.89835 L44,4179.32083 Z M26,4179.32083 L31.5318019,4184.89835 L26,4190.47587 L26,4179.32083 Z" id="Envelope"/>
+        </g>
+    </g>
+</svg>

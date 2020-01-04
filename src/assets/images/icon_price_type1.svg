@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="16px" viewBox="0 0 64 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_price_type1</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="定制列表页" transform="translate(-52.000000, -411.000000)">
+            <g id="Group-22" transform="translate(10.000000, 124.000000)">
+                <g id="Group-24">
+                    <g id="Group-3" transform="translate(5.000000, 286.000000)">
+                        <g id="icon_price_type1" transform="translate(37.000000, 0.000000)">
+                            <text id="优享会员9折" font-family="STHeitiSC-Light, Heiti SC" font-size="10" font-weight="300" line-spacing="18" fill="#BEA47A">
+                                <tspan x="3.73" y="13">优享会员9折</tspan>
+                            </text>
+                            <path d="M0.5,1.5 L0.5,16.5 L63.5,16.5 L63.5,5.28607835 L59.7737126,1.5 L0.5,1.5 Z" id="Rectangle" stroke="#BEA47A"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

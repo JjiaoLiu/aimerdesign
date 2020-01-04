@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="17px" viewBox="0 0 12 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="270" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="270" height="40">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-1" transform="translate(-1287.000000, -4450.000000)">
+            <g id="footer" transform="translate(0.000000, 4282.000000)">
+                <g id="Group-14" transform="translate(1273.000000, 29.000000)">
+                    <g id="Group-24" transform="translate(0.000000, 100.000000)">
+                        <g id="Group-18" transform="translate(0.000000, 27.000000)">
+                            <use id="Rectangle" stroke="#979797" mask="url(#mask-2)" stroke-width="2" fill="#FFFFFF" xlink:href="#path-1"></use>
+                            <g id="Page-1" transform="translate(14.000000, 12.000000)">
+                                <g id="Group-3" fill="#979797" opacity="0.5">
+                                    <path d="M6,16.235085 C4.93942857,14.774785 0.571428571,8.59981833 0.571428571,5.950085 C0.571428571,2.98160167 3.00657143,0.566751667 6,0.566751667 C8.99342857,0.566751667 11.4285714,2.98160167 11.4285714,5.950085 C11.4285714,8.59981833 7.06057143,14.774785 6,16.235085" id="Fill-1"></path>
+                                </g>
+                                <path d="M6,7.93333333 C4.89742857,7.93333333 4,7.04366667 4,5.95 C4,4.85633333 4.89742857,3.96666667 6,3.96666667 C7.10257143,3.96666667 8,4.85633333 8,5.95 C8,7.04366667 7.10257143,7.93333333 6,7.93333333 M6,3.4 C4.582,3.4 3.42857143,4.5441 3.42857143,5.95 C3.42857143,7.3559 4.582,8.5 6,8.5 C7.418,8.5 8.57142857,7.3559 8.57142857,5.95 C8.57142857,4.5441 7.418,3.4 6,3.4" id="Fill-4" fill="#FFFFFF"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

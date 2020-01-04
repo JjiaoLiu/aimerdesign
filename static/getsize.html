@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>测量我的尺码</title>
+  <link rel="stylesheet" href="style/style.css">
+</head>
+<body>
+<header class="nav">
+  <div class="p-l-15 h-100 p-r-15" style="cursor: pointer">
+    <i class="icon icon_goback"></i>
+  </div>
+  <div class="center">测量我的尺码</div>
+</header>
+<main class="main">
+  <div class="top-tab">
+    <div class="tab-item active">女士</div>
+    <div class="tab-item">男士</div>
+    <div class="tab-item">儿童</div>
+  </div>
+  <div class="tab-content">
+    <div class="tab-list">
+      <div class="title">文胸 <i class="icon icon_mini_vt"></i></div>
+      <div class="content-list p-lr-20">
+        <div class="action">测量上胸围：</div>
+        <div class="method">
+          测量方法：上身前倾45度，软尺绕过乳点一周，得出上胸围尺寸。
+        </div>
+        <div class="img-box">
+          <img src="images/index-step-3.png"/></div>
+        <div class="input-box">
+          <input type="text" placeholder="上胸围" oninput="value=value.replace(/[^\d]/g,'')"/> cm（厘米）
+        </div>
+      </div>
+      <div class="content-list p-lr-20">
+        <div class="action">测量上胸围：</div>
+        <div class="method">
+          测量方法：上身前倾45度，软尺绕过乳点一周，得出上胸围尺寸。
+        </div>
+        <div class="img-box"></div>
+        <div class="input-box">
+          <input type="text" placeholder="上胸围"/> cm（厘米）
+        </div>
+        <div class="button-group">
+          <div class="button">申请软尺</div>
+          <div class="button reverse show-result">显示结果</div>
+        </div>
+      </div>
+      <div class="result">
+        <div class="action">测量结果：</div>
+        <div class="method">
+          根据测量您适合的尺码为：
+        </div>
+        <div class="number">A75</div>
+        <div class="button-group">
+          <div class="button">重新测量</div>
+          <div class="button reverse">确定尺码</div>
+        </div>
+      </div>
+    </div>
+    <div class="tab-list">
+      <div class="title">内裤</div>
+    </div>
+  </div>
+  <div class="tab-content">
+  </div>
+  <div class="tab-content">
+  </div>
+</main>
+<script src="https://cdn.bootcss.com/jquery/3.4.1/jquery.min.js"></script>
+<script src="js/size.js"></script>
+</body>
+</html>

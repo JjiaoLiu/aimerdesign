@@ -1,0 +1,272 @@
+{
+  "status": "ok",
+  "code": "0",
+  "data": {
+    "system": {
+      "title": {
+        "en": "Behind the sences",
+        "zh": "我们的定制系统"
+      },
+      "buttonsrc": "#",
+      "banners": [
+        "/img/system-banner.jpg",
+        "/img/system-banner.jpg",
+        "/img/system-banner.jpg",
+        "/img/system-banner.jpg"
+      ],
+      "text": "由领衔演绎的太空主题 Pack 第三版与最终版现已推出。采用太空设计元素，定制你喜爱的款。由领衔演绎的太空主题 Pack 第三版与最终版现已推出。采用太空设计元素，定制你喜爱的款。. 由领衔演绎的太空主题 Pack 第三版与最终版现已推出。采用太空设计元素，定制你喜爱的款。 由领衔演绎的太空主题 Pack第三版与最终版现已推出。采用太空设计元素。"
+    },
+    "steps": {
+      "title": {
+        "en": "完美的创意呈现",
+        "zh": "Go for it!"
+      },
+      "banners": [
+        {
+          "number": 1,
+          "buttonsrc": "#",
+          "tip": "你来设计，专属你的时尚内衣。",
+          "imgurl": "/img/index-step-1.jpg"
+        },
+        {
+          "number": 2,
+          "buttonsrc": "#",
+          "tip": "我们来为您呈现至臻之作。",
+          "imgurl": "/img/index-step-2.jpg"
+        },
+        {
+          "number": 3,
+          "buttonsrc": "#",
+          "tip": "3至5周内配送",
+          "imgurl": "/img/index-step-3.jpg"
+        }
+      ]
+    },
+    "material": {
+      "title": {
+        "zh": "为你甄选的面料",
+        "en": "-----"
+      },
+      "banners": [
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        },
+        {
+          "color": "肉桂粉",
+          "material": "聚酯纤维",
+          "dis": "蕾丝聚拢文胸，钢圈模压加垫罩杯可塑造丰满胸型，展现迷人曲线，细肩带可调，窄背部配两对钩扣。",
+          "img": "/img/index-banner-1.jpg"
+        }
+      ]
+    },
+    "footers": [
+      {
+        "title": "爱慕专属定制女士系列",
+        "id": "1",
+        "list": [
+          {
+            "title": "爱慕专属定制女士系列",
+            "link": "1,1"
+          },
+          {
+            "title": "爱慕专属定制女士系列",
+            "link": "1,1"
+          },
+          {
+            "title": "爱慕专属定制女士系列",
+            "link": "1,1"
+          },
+          {
+            "title": "爱慕专属定制女士系列",
+            "link": "1,1"
+          }
+        ]
+      },
+      {
+        "title": "爱慕专属定制男士系列",
+        "id": "2",
+        "list": [
+          {
+            "title": "所有男士定制系列商品",
+            "link": "1,1"
+          },
+          {
+            "title": "定制内裤",
+            "link": "1,1"
+          },
+          {
+            "title": "定制家居服",
+            "link": "1,1"
+          },
+          {
+            "title": "定制基础内衣系列",
+            "link": "1,1"
+          },
+          {
+            "title": "定制运动系列",
+            "link": "1,1"
+          }
+        ]
+      },
+      {
+        "title": "爱慕专属定制儿童系列",
+        "id": "3",
+        "list": [
+          {
+            "title": "所有男士定制系列商品",
+            "link": "1,1"
+          },
+          {
+            "title": "定制内裤",
+            "link": "1,1"
+          },
+          {
+            "title": "定制家居服",
+            "link": "1,1"
+          },
+          {
+            "title": "定制基础内衣系列",
+            "link": "1,1"
+          }
+        ]
+      }
+    ],
+    "contacts": [
+      {
+        "title": "400-650-5299（09:00-22:00）",
+        "id": "4",
+        "icon": "icon_tell",
+        "link": "tel:400-650-5299"
+      },
+      {
+        "title": "在线客服",
+        "id": "5",
+        "icon": "icon_headset",
+        "link": "javascript:void(0)"
+      },
+      {
+        "title": "Email:kefu@aimer.com.cn",
+        "id": "6",
+        "icon": "icon_email",
+        "link": "mailto:kefu@aimer.com.cn"
+      }
+    ],
+    "websites": [
+      {
+        "title": "顾客服务",
+        "id": "7",
+        "list": [
+          {
+            "title": "交易条款",
+            "link": "https://m.aimer.com.cn/method/member_guide_protocol"
+          },
+          {
+            "title": "会员权益",
+            "link": "https://m.aimer.com.cn/method/v6codedescribe"
+          },
+          {
+            "title": "尺码参照",
+            "link": "https://m.aimer.com.cn/method/size"
+          },
+          {
+            "title": "退换货政策",
+            "link": "https://m.aimer.com.cn/method/exchange_goods"
+          },
+          {
+            "title": "发票规则",
+            "link": "https://m.aimer.com.cn/method/makeinvoice"
+          },
+          {
+            "title": "服务中心",
+            "link": "https://m.aimer.com.cn/account/service"
+          },
+          {
+            "title": "加盟合作",
+            "link": "https://m.aimer.com.cn/method/cooperation"
+          },
+          {
+            "title": "企业团购",
+            "link": "https://m.aimer.com.cn/method/grouppurchase"
+          },
+          {
+            "title": "员工登录",
+            "link": "https://m.aimer.com.cn/passport/purchaselogin"
+          }
+        ]
+      },
+      {
+        "title": "关于公司",
+        "id": "8",
+        "list": [
+          {
+            "title": "爱慕简介",
+            "link": "https://m.aimer.com.cn/method/aimerculture"
+          },
+          {
+            "title": "爱慕故事",
+            "link": "https://m.aimer.com.cn/information/list?cid=6195"
+          },
+          {
+            "title": "门店导航",
+            "link": "https://m.aimer.com.cn/method/store_map"
+          },
+          {
+            "title": "加入我们",
+            "link": "https://aimer.m.zhiye.com/#/jobs?jc=1"
+          }
+        ]
+      }
+    ]
+  }
+}

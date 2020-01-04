@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 16</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-5.3%" y="-33.3%" width="110.7%" height="166.7%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="定制详情页面—选择位置" transform="translate(-85.000000, -523.000000)" fill="#BEA47A" stroke="#BEA47A" stroke-width="0.7">
+            <g id="Group-7" filter="url(#filter-1)" transform="translate(0.000000, 508.000000)">
+                <g id="Group-16" transform="translate(83.000000, 13.000000)">
+                    <g id="Group-4">
+                        <g transform="translate(17.500000, 17.500000) rotate(-315.000000) translate(-17.500000, -17.500000) translate(10.500000, 10.500000)">
+                            <path d="M-0.35,5.95 L14.35,5.95 L14.35,8.05 L-0.35,8.05 L-0.35,5.95 Z" id="Rectangle-4" transform="translate(7.000000, 7.000000) rotate(-270.000000) translate(-7.000000, -7.000000) "></path>
+                            <path d="M-0.35,5.95 L14.35,5.95 L14.35,8.05 L-0.35,8.05 L-0.35,5.95 Z" id="Rectangle-4" transform="translate(7.000000, 7.000000) rotate(-360.000000) translate(-7.000000, -7.000000) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
